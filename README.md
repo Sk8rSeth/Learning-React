@@ -1,0 +1,1 @@
+# this is the repo im using to build out a bunch of shitty test projects while i learn react and its companion libraries
